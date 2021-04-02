@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pedro H. Silva
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pxdro-silva.20@outlook.com
 
